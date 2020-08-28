@@ -1,0 +1,2 @@
+# AnaliseDescritivaDadosEnade2018
+ a análise descritiva o grupo de trabalho utilizou uma base de microdados( dados desagregados) do ENADE (Exame Nacional de Desempenho dos Estudantes) esse exame avalia o desempenho dos alunos de ensino superior concluintes dos cursos de graduação , através de um questionário composto por perguntas relacionadas ao perfil do aluno , conteúdo programático do curso , habilidade , competências .
